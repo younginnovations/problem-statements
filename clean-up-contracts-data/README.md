@@ -5,7 +5,7 @@ You have two sets of csv files - one containing the contracts data and the other
 
 The data are not real data and presented for this problem only. The data fields and real data are available at http://www.edolidar.gov.np/tenders.php
 
-The first contract file contains the following fields
+The first [contract file](clean-up-contracts-data/contracts.csv) contains the following fields
 
    * contractname
    * status
@@ -16,7 +16,7 @@ The first contract file contains the following fields
    * publicationDate
    * publishedIn
 
-The second award file contains the following fields
+The second [award file](clean-up-contracts-data/awards.csv) contains the following fields
 
    * contractName
    * contractDate
@@ -25,7 +25,7 @@ The second award file contains the following fields
    * awardeeLocation
    * Amount
 
-The Output file will contain the fields from both files (blank values if the contract is not awarded yet)
+The [output file](clean-up-contracts-data/final.csv) will contain the fields from both files (blank values if the contract is not awarded yet)
 
    * contractname
    * status
@@ -46,6 +46,6 @@ After the file is created, read the output file and show the total amount of awa
 
 ——
 
-Your script should read the two files (contracts.csv and awards.csv) and output data-combined file (final.csv) and prints the following output in the screen.
+Your script should read the two files [contracts.csv](clean-up-contracts-data/contracts.csv) and [awards.csv](clean-up-contracts-data/awards.csv) and output data-combined file [final.csv](clean-up-contracts-data/final.csv) and prints the following output in the screen.
 
 `Total Amount of closed contracts: 700000`
