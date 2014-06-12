@@ -1,7 +1,7 @@
 # Problem
 
 
-You have two sets of csv files - one containing the contracts data and the other containing the awarded contracts. Your task is to combine the two csv files using the common field (contractName) and compute the total amount of closed awarded contracts. There are problems with the data, which means there are closed contracts which have been awarded yet.
+You have two sets of csv files - one containing the contracts data and the other containing the awarded contracts. Your task is to combine the two csv files using the common field (contractName) and compute the total amount of closed awarded contracts. There are problems with the data, which means there are closed contracts which have not been awarded yet.
 
 The data are not real data and presented for this problem only. The data fields and real data are available at http://www.edolidar.gov.np/tenders.php
 
