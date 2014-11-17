@@ -59,9 +59,9 @@ Your script should read the two files [contracts.csv](contracts.csv) and [awards
 
 The solution should be uploaded in the github or bitbucket with all the required csv files.
 
-The script should be in any of the following languages: php, python, node, ruby
+The script should be in one of the following languages: php, python, node, ruby
 
-There should be a README file which should include the process of running the script, with installation/setup of dependencies if required. The script should be able to run by following the instructions without any assumptions. 
+There should be a README file which should include the process of running the script, with installation/setup of dependencies if required. The script should be able to run by following the instructions.
 
 
 
