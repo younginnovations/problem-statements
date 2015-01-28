@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<contracts>
+    <contract>
+        <contractName>Contract-2070-1</contractName>
+        <status>Closed</status>
+        <bidPurchaseDeadline>6/12/14</bidPurchaseDeadline>
+        <bidSubmissionDeadline>6/13/14</bidSubmissionDeadline>
+        <bidOpeningDate>6/13/14</bidOpeningDate>
+        <tenderId>2070/071/2</tenderId>
+        <publicationDate>5/14/14</publicationDate>
+        <publishedIn>Nagarik Daily</publishedIn>
+        <contractDate></contractDate>
+        <completionDate></completionDate>
+        <awardee></awardee>
+        <awardeeLocation></awardeeLocation>
+        <latLon></latLon>
+        <amount></amount>
+    </contract>
+    <contract>
+        <contractName>Contract-2070-2</contractName>
+        <status>Closed</status>
+        <bidPurchaseDeadline>6/10/14</bidPurchaseDeadline>
+        <bidSubmissionDeadline>6/11/14</bidSubmissionDeadline>
+        <bidOpeningDate>6/11/14</bidOpeningDate>
+        <tenderId>16/070/71</tenderId>
+        <publicationDate>5/12/14</publicationDate>
+        <publishedIn>The Himalayan Times</publishedIn>
+        <contractDate></contractDate>
+        <completionDate></completionDate>
+        <awardee></awardee>
+        <awardeeLocation></awardeeLocation>
+        <latLon></latLon>
+        <amount></amount>
+    </contract>
+    <contract>
+        <contractName>Contract-2070-3</contractName>
+        <status>Current</status>
+        <bidPurchaseDeadline>3/8/14</bidPurchaseDeadline>
+        <bidSubmissionDeadline>3/9/14</bidSubmissionDeadline>
+        <bidOpeningDate>3/9/14</bidOpeningDate>
+        <tenderId>DDC/Bag/Bridge/03-070/71</tenderId>
+        <publicationDate>3/10/14</publicationDate>
+        <publishedIn>Nagarik Daily</publishedIn>
+        <contractDate>5/9/14</contractDate>
+        <completionDate>8/25/14</completionDate>
+        <awardee>SK Builders</awardee>
+        <awardeeLocation>Banke</awardeeLocation>
+        <latLon>28.160859,81.929169</latLon>
+        <amount>200000</amount>
+    </contract>
+    <contract>
+        <contractName>Contract-2070-4</contractName>
+        <status>Current</status>
+        <bidPurchaseDeadline>4/23/14</bidPurchaseDeadline>
+        <bidSubmissionDeadline>4/25/14</bidSubmissionDeadline>
+        <bidOpeningDate>4/25/14</bidOpeningDate>
+        <tenderId>04(2070/071)</tenderId>
+        <publicationDate>4/9/14</publicationDate>
+        <publishedIn>Hetauda sandesh</publishedIn>
+        <contractDate></contractDate>
+        <completionDate></completionDate>
+        <awardee></awardee>
+        <awardeeLocation></awardeeLocation>
+        <latLon></latLon>
+        <amount></amount>
+    </contract>
+    <contract>
+        <contractName>Contract-2070-5</contractName>
+        <status>Closed</status>
+        <bidPurchaseDeadline>4/23/14</bidPurchaseDeadline>
+        <bidSubmissionDeadline>4/25/14</bidSubmissionDeadline>
+        <bidOpeningDate>4/26/14</bidOpeningDate>
+        <tenderId>04(2070/071)</tenderId>
+        <publicationDate>4/10/14</publicationDate>
+        <publishedIn>Hetauda sandesh</publishedIn>
+        <contractDate>3/18/14</contractDate>
+        <completionDate>4/8/14</completionDate>
+        <awardee>S engineering industries</awardee>
+        <awardeeLocation>Makwanpur</awardeeLocation>
+        <latLon>27.554636,85.023346</latLon>
+        <amount>300000</amount>
+    </contract>
+    <contract>
+        <contractName>Contract-2070-6</contractName>
+        <status>Current</status>
+        <bidPurchaseDeadline>4/23/14</bidPurchaseDeadline>
+        <bidSubmissionDeadline>4/25/14</bidSubmissionDeadline>
+        <bidOpeningDate>4/27/14</bidOpeningDate>
+        <tenderId>04(2070/071)</tenderId>
+        <publicationDate>4/11/14</publicationDate>
+        <publishedIn>Hetauda sandesh</publishedIn>
+        <contractDate></contractDate>
+        <completionDate></completionDate>
+        <awardee></awardee>
+        <awardeeLocation></awardeeLocation>
+        <latLon></latLon>
+        <amount></amount>
+    </contract>
+    <contract>
+        <contractName>Contract-2070-7</contractName>
+        <status>Current</status>
+        <bidPurchaseDeadline>4/23/14</bidPurchaseDeadline>
+        <bidSubmissionDeadline>4/25/14</bidSubmissionDeadline>
+        <bidOpeningDate>4/28/14</bidOpeningDate>
+        <tenderId>04(2070/071)</tenderId>
+        <publicationDate>4/12/14</publicationDate>
+        <publishedIn>Hetauda sandesh</publishedIn>
+        <contractDate></contractDate>
+        <completionDate></completionDate>
+        <awardee></awardee>
+        <awardeeLocation></awardeeLocation>
+        <latLon></latLon>
+        <amount></amount>
+    </contract>
+    <contract>
+        <contractName>Contract-2070-8</contractName>
+        <status>Current</status>
+        <bidPurchaseDeadline>4/23/14</bidPurchaseDeadline>
+        <bidSubmissionDeadline>4/25/14</bidSubmissionDeadline>
+        <bidOpeningDate>4/29/14</bidOpeningDate>
+        <tenderId>04(2070/071)</tenderId>
+        <publicationDate>4/13/14</publicationDate>
+        <publishedIn>Hetauda sandesh</publishedIn>
+        <contractDate></contractDate>
+        <completionDate></completionDate>
+        <awardee></awardee>
+        <awardeeLocation></awardeeLocation>
+        <latLon></latLon>
+        <amount></amount>
+    </contract>
+    <contract>
+        <contractName>Contract-2070-9</contractName>
+        <status>Closed</status>
+        <bidPurchaseDeadline>2/6/14</bidPurchaseDeadline>
+        <bidSubmissionDeadline>2/8/14</bidSubmissionDeadline>
+        <bidOpeningDate>2/8/14</bidOpeningDate>
+        <tenderId>15/070/71</tenderId>
+        <publicationDate>1/9/14</publicationDate>
+        <publishedIn>The Himalayan Times</publishedIn>
+        <contractDate>3/6/14</contractDate>
+        <completionDate>4/6/14</completionDate>
+        <awardee>Gourishankar &amp; nirman sewa</awardee>
+        <awardeeLocation>Lalitpur</awardeeLocation>
+        <latLon>27.666667,85.316667</latLon>
+        <amount>400000</amount>
+    </contract>
+    <contract>
+        <contractName>Contract-2070-10</contractName>
+        <status>Current</status>
+        <bidPurchaseDeadline>1/14/14</bidPurchaseDeadline>
+        <bidSubmissionDeadline>1/15/14</bidSubmissionDeadline>
+        <bidOpeningDate>1/16/14</bidOpeningDate>
+        <tenderId>13, 2070/2071</tenderId>
+        <publicationDate>1/6/14</publicationDate>
+        <publishedIn>The Himalayan Times</publishedIn>
+        <contractDate>2/6/14</contractDate>
+        <completionDate>6/16/14</completionDate>
+        <awardee>SK Builders</awardee>
+        <awardeeLocation>Banke</awardeeLocation>
+        <latLon>28.160859,81.929169</latLon>
+        <amount>500000</amount>
+    </contract>
+</contracts>
