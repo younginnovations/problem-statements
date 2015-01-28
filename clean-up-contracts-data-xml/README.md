@@ -49,7 +49,7 @@ After the file is created, read the output file and show the total amount of awa
 
 ——
 
-Your script should read  two files [contracts.csv](contracts.csv) and [awards.csv](awards.csv) and generates combined XML file [final.xml](final.xml) and print the following output in the screen. Make sure the generated XML file is valid and opens in your browser without any error.
+Your script should read  two files [contracts.csv](contracts.csv) and [awards.csv](awards.csv) and generates combined XML file [final.xml](final.xml) and prints the following output in the screen. Make sure the generated XML file is valid and opens in your browser without any error.
 
 `Total Amount of closed contracts: 700000`
 
