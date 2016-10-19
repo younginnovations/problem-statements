@@ -2,8 +2,8 @@
 
 ### What you need to do
 
-* If you haven’t already, take a [git class in codeschool](https://www.codeschool.com/courses/try-git).
-* Once complete, create a private repo called “yipl-log-processor” in [bitbucket](https://bitbucket.org)
+* If you haven’t used git before, take a [git class in codeschool](https://www.codeschool.com/courses/try-git).
+* Once complete, create a private repo called “yipl-se-log-processor” in [bitbucket](https://bitbucket.org)
 * Solve the problem detailed below
 * Push your code to the repo (make sure that you have multiple commits with proper messages) 
 * Invite applications-bitbucket@yipl.com.np to that particular private repo
@@ -11,7 +11,7 @@
 
 #### Problem
 
-You need to write code that reads the given [log](example.log) [files](example1.log) (passed as an argument from cli), processes its content and provides a summary of the logs, as shown in the 'output' section below. The code should accept any number of log files in the command line. The code should be written in any one of the following programming languages: node, python, php, golang. 
+You need to write code that reads the given [log](example.log) [files](example1.log) (passed as an argument from cli), processes its content and provides a summary of the logs, as shown in the 'output' section below. The code should accept any number of log files from the command line. The code should be written in any one of the following programming languages: node, python, php, golang. 
 
 The filename should be: process.php, process.py, process.js or process.go depending upon the language you choose.
 
