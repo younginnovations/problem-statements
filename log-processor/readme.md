@@ -6,7 +6,7 @@
 * Once complete, create a private repo called “yipl-se-log-processor” in [bitbucket](https://bitbucket.org)
 * Solve the problem detailed below
 * Push your code to the repo (make sure that you have multiple commits with proper messages) 
-* Invite applications-bitbucket@yipl.com.np to that particular private repo
+* Invite bitbucket@yipl.com.np to that particular private repo
 * Submit your application
 
 #### Problem
