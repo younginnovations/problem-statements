@@ -10,7 +10,7 @@
 
 #### Problem
 
-- Fetch data for Petroleum Products from the data.json file using an **API call**. API endpoint [https://raw.githubusercontent.com/younginnovations/internship-challenges/master/programming/petroleum-report/data.json](https://raw.githubusercontent.com/younginnovations/internship-challenges/master/programming/petroleum-report/data.json)
+- Fetch data for Petroleum Products from the data.json file using an **API call**. API endpoint [https://raw.githubusercontent.com/younginnovations/problem-statements/master/petroleum-report/data.json](https://raw.githubusercontent.com/younginnovations/problem-statements/master/petroleum-report/data.json)
 - Store the response data into a **sqlite** database. 
 	- (bonus point) Normalize the data and store into relational structure
 	- (bonus point) Fetch the data from the newly stored sqlite database
